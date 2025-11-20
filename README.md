@@ -1,0 +1,1 @@
+Run the program and then input number from 1-9 to generate the picture.
